@@ -9,6 +9,7 @@ Como instrucciones se tiene:
  -Utilizar mínimo tres fuentes diferentes desde donde extraer los datos.
  -Llevar los resultados a una base de datos como SQL
 
+La temática es la situación de consrvación de las poblaciones de mamíferos en España.
 
 En este caso, las fuentes han sido la página web de la UICN de españa, la página web "http://www.vertebradosibericos.org", que recoge una enciclopedia digital de los vertebrados de España, y para terminar wikipedia y un documento del BOE.
 
