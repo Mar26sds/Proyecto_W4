@@ -1,3 +1,6 @@
+![foca-monje-mauritania-kTJB--620x349@abc](https://user-images.githubusercontent.com/110724649/188311666-d6742476-eef7-4635-b2c6-a2426e4fa37a.jpg)
+
+
 # Proyecto semana 4, ETL.
 
 ## La finalidad de este proyecto es realizar cada uno de los pasos del concepto ETL: extraer, transformar y cargar datos. 
