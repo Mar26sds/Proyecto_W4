@@ -1,0 +1,119 @@
+nombre_científico;autoridad;nombre_común;categoría_de_amenaza;origen
+Mustela lutreola;(Linnaeus, 1761);Visón europeo;CR;Nativa
+Balaenoptera musculus;(Linnaeus, 1758);Ballena azul;EN;Nativa
+Balaenoptera borealis;Lesson, 1828;Rorcual norteño;EN;Errante
+Crocidura canariensis;"Hutterer, Lopez-Jurado &amp; Vogel, 1987";Musaraña de Canarias;EN;Nativa
+Lynx pardinus;(Temminck, 1827);Lince ibérico;EN;Nativa
+Arvicola sapidus;Miller, 1908;Rata de agua;VU;Nativa
+Barbastella barbastellus;(Schreber, 1774);Murciélago de bosque;VU;Nativa
+Galemys pyrenaicus;(E. Geoffroy St. Hilaire, 1811);Desmán ibérico;VU;Nativa
+Lepus castroviejoi;Palacios, 1977;Liebre de piornal;VU;Nativa
+Myotis bechsteinii;(Kuhl, 1817);Murciélago ratonero forestal;VU;Nativa
+Myotis capaccinii;(Bonaparte, 1837); Murciélago ratonero patudo;VU;Nativa
+Phocoena phocoena;(Linnaeus, 1758);Marsopa común;VU;Nativa
+Physeter macrocephalus;Linnaeus, 1758;Cachalote;VU;Nativa
+Pipistrellus maderensis;(Dobson, 1878);Murciélago de Madeira;VU;Nativa
+Plecotus teneriffae;Barret-Hamilton, 1907; Murciélago orejudo canario;VU;Nativa
+Rhinolophus euryale;Blasius, 1853;Murciélago mediterráneo de herradura;VU;Nativa
+Rhinolophus mehelyi;Matschie, 1901;Murciélago mediano de herradura;VU;Nativa
+Crocidura pachyura;(Kuster, 1835);Musaraña de dientes blancos del norte de África;DD;Nativa
+Delphinus delphis;Linnaeus, 1758;Delfín común oceánico de aletas cortas;DD;Nativa
+Globicephala melas;(Traill, 1809);Calderón común;DD;Nativa
+Grampus griseus;(G. Cuvier, 1812);Calderón gris;DD;Nativa
+Hyperoodon ampullatus;(Forster, 1770);Calderón boreal;DD;Nativa
+Mesoplodon bidens;(Sowerby, 1804);Zifio de Sowerby;DD;Nativa
+Mesoplodon densirostris;(Blainville, 1817);Zifio de Blainville;DD;Nativa
+Mesoplodon europaeus;(Gervais, 1855);Zifio de Gervais;DD;Nativa
+Mesoplodon mirus;True, 1913;Zifio de True;DD;Nativa
+Myotis alcathoe;"von Helversen &amp; Heller, 2001";Murciélago ratonero bigotudo pequeño;DD;Nativa
+Nyctalus lasiopterus;(Schreber, 1780);Nóctulo mayor;DD;Nativa
+Orcinus orca;(Linnaeus, 1758);Orca;DD;Nativa
+Stenella coeruleoalba;(Meyen, 1833);Delfín listado;DD;Nativa
+Tursiops truncatus;(Montagu, 1821);Delfín mular;DD;Nativa
+Ziphius cavirostris;G. Cuvier, 1823;Zifio de Cuvier;DD;Nativa
+Balaenoptera physalus;(Linnaeus, 1758);Rorcual común;NT;Nativa
+Eliomys quercinus;(Linnaeus, 1766);Lirón común;NT;Nativa
+Lutra lutra;(Linnaeus, 1758);Nutria europea;NT;Nativa
+Microtus cabrerae;Thomas, 1906;Topillo de Cabrera;NT;Nativa
+Miniopterus schreibersii;(Kuhl, 1817);Murciélago de cueva;NT;Nativa
+Myotis blythii;(Tomes, 1857);Murciélago ratonero mediano ;NT;Nativa
+Myotis punicus;Felten, Spitzenberger, and Storch, 1977;Murciélago ratonero moruno;NT;Nativa
+Oryctolagus cuniculus;(Linnaeus, 1758);Conejo común;NT;Nativa
+Plecotus macrobullaris;Kuzjakin, 1965;Murciélago orejudo alpino;NT;Nativa
+Rhinolophus ferrumequinum;(Schreber, 1774);Murciélago grande de herradura;NT;Nativa
+Rhinolophus hipposideros;(Bechstein, 1800);Murciélago pequeño de herradura;NT;Nativa
+Sorex alpinus;Schinz, 1837;Musaraña alpina;NT;Nativa
+Apodemus flavicollis;(Melchior, 1834);Ratón leonado;LC;Nativa
+Apodemus sylvaticus;(Linnaeus, 1758);Ratón de campo;LC;Nativa
+Arvicola amphibius;(Linnaeus, 1758);Rata topera;LC;Nativa
+Arvicola scherman;(Shaw, 1801);Rata topera;LC;Nativa
+Atelerix algirus;(Lereboullet, 1842);Erizo moruno;LC;Nativa
+Balaenoptera acutorostrata;Lacépède, 1804;Rorcual aliblanco;LC;Nativa
+Canis aureus;Linnaeus, 1758;Chacal común;LC;Nativa
+Canis lupus;Linnaeus, 1758;Lobo;LC;Nativa
+Capra pyrenaica;Schinz, 1838;Cabra montés;LC;Nativa
+Capreolus capreolus;(Linnaeus, 1758);Corzo;LC;Nativa
+Castor fiber;Linnaeus, 1758;Castor europeo;LC;Reintroducida
+Chionomys nivalis;(Martins, 1842);Topillo nival;LC;Nativa
+Crocidura russula;(Hermann, 1780);Musaraña gris;LC;Nativa
+Crocidura suaveolens;(Pallas, 1811);Musaraña de campo;LC;Nativa
+Dama dama;(Linnaeus, 1758);Gamo;LC;Introducida
+Erinaceus europaeus;Linnaeus, 1758;Erizo común;LC;Nativa
+Eptesicus serotinus;Schreber, 1774;Murciélago hortelano;LC;Nativa
+Felis silvestris;Schreber, 1777;Gato montés;LC;Nativa
+Glis glis;(Linnaeus, 1766);Lirón gris;LC;Nativa
+Herpestes ichneumon;(Linnaeus, 1758);Meloncillo;LC;Introducida
+Hypsugo savii;Bonaparte, 1837;Murciélago montañero;LC;Nativa
+Lagenorhynchus acutus;(Gray, 1828);Delfín de flancos blancos;LC;Nativa
+Lagenorhynchus albirostris;(Gray, 1846);Delfín de hocico blanco;LC;Errante
+Lepus europaeus;Pallas, 1778;Liebre europea;LC;Nativa
+Lepus granatensis;Rosenhauer, 1856;Liebre ibérica;LC;Nativa
+Marmota marmota;(Linnaeus, 1758);Marmora alpina;LC;Introducida
+Martes foina;(Erxleben, 1777);Garduña;LC;Nativa
+Martes martes;(Linnaeus, 1758);Marta;LC;Nativa
+Megaptera novaeangliae;(Borowski, 1781);Yubarta;LC;Nativa
+Meles meles;(Linnaeus, 1758);Tejón común;LC;Nativa
+Micromys minutus;(Pallas, 1771);Ratón espiguero;LC;Nativa
+Microtus agrestis;(Linnaeus, 1761);Topillo agreste;LC;Nativa
+Microtus arvalis;(Pallas, 1778);Topillo campesino;LC;Nativa
+Microtus duodecimcostatus;(de Selys-Longchamps, 1839);Topillo mediterráneo;LC;Nativa
+Microtus gerbei;(Gerbe, 1879);Topillo pirenaico;LC;Nativa
+Microtus lusitanicus;(Gerbe, 1879);Topillo lusitano;LC;Nativa
+Mus musculus;Linnaeus, 1758;Ratón casero;LC;Nativa
+Mus spretus;Lataste, 1883;Ratón moruno;LC;Nativa
+Mustela erminea;Linnaeus, 1758;Armiño;LC;Nativa
+Mustela nivalis;Linnaeus, 1766;Comadreja común;LC;Nativa
+Mustela putorius;Linnaeus, 1758;Turón europeo;LC;Nativa
+Myodes glareolus;(Schreber, 1780);Topillo rojo;LC;Nativa
+Myotis daubentonii;(Kuhl, 1817);Murciélago ribereño;LC;Nativa
+Myotis emarginatus;(É. Geoffroy, 1806);Murciélago ratonero pardo;LC;Nativa
+Myotis myotis;(Borkhausen, 1797);Murciélago ratonero grande;LC;Nativa
+Myotis mystacinus;(Kuhl, 1817);Murciélago bigotudo;LC;Nativa
+Myotis nattereri;(Kuhl, 1817);Murciélago ratonero gris;LC;Nativa
+Neomys anomalus;Cabrera, 1907;Musgaño de Cabrera;LC;Nativa
+Neomys fodiens;(Pennant, 1771);Musgaño patiblanco;LC;Nativa
+Nyctalus leisleri;(Kuhl, 1817); Nóctulo pequeño;LC;Nativa
+Nyctalus noctula;(Schreber, 1774); Nóctulo común;LC;Nativa
+Phoca vitulina;Linnaeus, 1758;Foca común;LC;Nativa
+Pipistrellus kuhlii;(Kuhl, 1817);Murciélago de borde claro;LC;Nativa
+Pipistrellus nathusii;"(Keyserling &amp; Blasius, 1839)";Murciélago de Nathusius;LC;Nativa
+Pipistrellus pipistrellus;(Schreber, 1774);Murciélago común;LC;Nativa
+Pipistrellus pygmaeus;(Leach, 1825);Murciélago de Cabrera;LC;Nativa
+Plecotus auritus;Linnaeus, 1758;Murciélago orejudo dorado;LC;Nativa
+Plecotus austriacus;(Fischer, 1829);Murciélago orejudo gris;LC;Nativa
+Rattus rattus;(Linnaeus, 1758);Rata negra;LC;Introducida (invasora)**
+Rupicapra pyrenaica;Bonaparte, 1845;Rebeco pirenaico;LC;Nativa
+Sciurus vulgaris;Linnaeus, 1758;Ardilla roja;LC;Nativa
+Sorex araneus;Linnaeus, 1758; Musaraña bicolor;LC;Nativa
+Sorex coronatus;Millet, 1828;Musaraña tricolor;LC;Nativa
+Sorex granarius;Miller, 1910;Musaraña ibérica;LC;Nativa
+Sorex minutus;Linnaeus, 1766;Musaraña enana;LC;Nativa
+Sus scrofa;Linnaeus, 1758;Jabalí;LC;Nativa
+Tadarida teniotis;(Rafinesque, 1814);Murciélago rabudo;LC;Nativa
+Talpa europaea;Linnaeus, 1758;Topo común;LC;Nativa
+Talpa occidentalis;Cabrera, 1907;Topo ibérico;LC;Nativa
+Ursus arctos;Linnaeus, 1758;Oso pardo;LC;Nativa
+Vulpes vulpes;(Linnaeus, 1758);Zorro rojo;LC;Nativa
+ Lynx Lynx;(Linnaeus, 1758);Lince europeo;RE;Nativo
+Eubalaena glacialis;(Müller, 1776);Ballena franca ;RE;Nativo
+Monachus monachus;(Hermann, 1779);Foca monje del Mediterráneo ;RE;Nativo
